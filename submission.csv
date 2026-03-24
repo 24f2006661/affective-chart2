@@ -1,0 +1,6 @@
+{
+  "prompt": "A tailor's atelier, photorealistic. On the left, a dressmaker's mannequin wearing a suit jacket that fits it with uncanny, obsessive perfection — every seam traces the exact contours of that specific dummy, every stitch follows its unique asymmetries. On the right, a real human man attempts to put on an identical jacket cut from the same pattern — but it is clearly unwearable on a real body: the shoulders pull grotesquely, the chest strains at the buttons, the sleeves are the wrong length, the whole garment distorts. His expression shows confusion and discomfort. Warm atelier lighting, fabric rolls in background, tailor's tools on table. Photorealistic, cinematic. No text, no labels, no diagrams.",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "overfitting",
+  "metaphor": "A jacket fitted perfectly to a mannequin fails completely on a real human body — memorised one form, cannot generalise to any other."
+}
